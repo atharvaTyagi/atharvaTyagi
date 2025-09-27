@@ -1,9 +1,7 @@
 <!-- 🌟 ATHARVA TYAGI | COLORFUL & IMPACTFUL DEVELOPER PROFILE -->
 
-<h1 align="center">
- <h1 align="center">🌟 Atharva Tyagi</h1>
+<h1 align="center">🌟 Atharva Tyagi</h1>
 <h3 align="center">💻 Android Developer | Tech for Impact 🌍 | Kotlin • Java • Compose</h3>
-</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharvatyagi/">
@@ -17,7 +15,7 @@
 ### 🌍 About Me  
 
 I’m **Atharva Tyagi**, an **Android Developer** passionate about building technology that empowers people and drives **social impact**.  
-Inspired by initiatives like [Karya](https://www.karya.in/), I believe that **technology should uplift communities** not just innovate for innovation’s sake.  
+Inspired by initiatives like [Karya](https://www.karya.in/), I believe that **technology should uplift communities**, not just innovate for innovation’s sake.  
 
 Armed with strong foundations in **Kotlin**, **Java**, and **Android development**, I build apps that are fast, secure, and designed for real-world impact.  
 Whether I’m optimizing performance, refining UX, or experimenting with **Jetpack Compose**, I’m constantly seeking better ways to turn ideas into accessible, impactful solutions.  
@@ -54,13 +52,14 @@ Whether I’m optimizing performance, refining UX, or experimenting with **Jetpa
 ### 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atharvaTyagi&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvaTyagi&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atharvaTyagi&show_icons=true&hide_border=true&title_color=3DDC84&icon_color=3DDC84&text_color=9E9E9E&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvaTyagi&hide_border=true&background=0D1117&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=9E9E9E&sideNums=3DDC84&currStreakLabel=3DDC84&sideLabels=9E9E9E&dates=9E9E9E" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvaTyagi&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvaTyagi&theme=react-dark&hide_border=true&area=true" />
 </p>
+
 
 ---
 
@@ -73,6 +72,7 @@ Whether I’m optimizing performance, refining UX, or experimenting with **Jetpa
 </p>
 
 ---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=atharvaTyagi&theme=chalk&no-bg=true&margin-w=8" />
 </p>
